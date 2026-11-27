@@ -10,7 +10,7 @@ tracker:
             repos:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
-runtime: dummy
+runtime: pi
 roles:
     - triage
     - coder
